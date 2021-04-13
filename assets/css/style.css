@@ -550,6 +550,9 @@ p {
     top: -7px; }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+  
+    .navbar-brand img {
+      display: none; }
   .navbar-collapse {
     position: absolute;
     top: 100%;
